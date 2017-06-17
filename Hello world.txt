@@ -1,2 +1,3 @@
 print("Привет Мир")
 print("Привет все")
+print("Goodbye")
